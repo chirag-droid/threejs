@@ -1,0 +1,11 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: #d25578;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
